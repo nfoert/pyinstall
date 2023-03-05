@@ -71,3 +71,6 @@ Starting in 1
 ```
 
 I hope this little utility saves you some time. It certainly has saved some of mine.
+
+## To Do
+- I'd like to add the ability to highlight the output of the `pyinstaller` command so you can easily spot errors
